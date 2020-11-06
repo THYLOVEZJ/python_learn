@@ -17,4 +17,4 @@ for i in range(N):
         str.replace(str,"")
     else:
         print(str[5:11])
-        str.replace(str,"")##这个程序有问题需要调整
+        str.replace(str,"")##这个程序有问题需要调整？？？
